@@ -182,3 +182,13 @@ source = "menu"
 for_recipes = [ "channa-masala", "pasta-alla-norcina", "chicken-chile-verde" ]
 added_at = "2026-06-11"
 
+[[items]]
+name = "salmon"
+quantity = "2.5 lb"
+kind = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "honey-mustard-salmon" ]
+note = "Aqua Star Wild Pacific on sale $9.99/1.25 lb — buy 2 packs"
+added_at = "2026-06-11"
+
