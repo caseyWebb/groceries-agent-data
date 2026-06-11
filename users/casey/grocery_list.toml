@@ -203,3 +203,13 @@ source = "menu"
 for_recipes = [ "honey-mustard-salmon" ]
 added_at = "2026-06-11"
 
+[[items]]
+name = "parmesan wedge"
+quantity = "1"
+kind = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "pasta-alla-norcina" ]
+note = "Block only — no pre-shredded"
+added_at = "2026-06-11"
+
