@@ -73,6 +73,7 @@ kind = "grocery"
 status = "in_cart"
 source = "menu"
 for_recipes = [ "chicken-chile-verde" ]
+note = "Fresh — $2.69/lb"
 added_at = "2026-06-09"
 
 [[items]]
