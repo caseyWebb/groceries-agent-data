@@ -135,15 +135,6 @@ note = "Block only — no pre-shredded"
 added_at = "2026-06-11"
 
 [[items]]
-name = "canned chickpeas"
-quantity = "2 cans"
-kind = "grocery"
-status = "active"
-source = "menu"
-for_recipes = [ "channa-masala" ]
-added_at = "2026-06-11"
-
-[[items]]
 name = "whole peeled tomatoes"
 quantity = "1 can"
 kind = "grocery"
