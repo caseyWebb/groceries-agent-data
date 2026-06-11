@@ -5,7 +5,6 @@
 # Add entries below, e.g.:
 #   [[members]]
 #   address = "you@example.com"
-#   name = "You"
 #   [[senders]]
 #   address = "cooking@nytimes.com"
 #   name = "NYT Cooking"
@@ -14,5 +13,3 @@ senders = []
 
 [[members]]
 address = "casey@dirtbag.social"
-name = "Casey"
-
