@@ -2,6 +2,9 @@
 primary = "Kroger"
 preferred_location = "Kroger - 76104"
 
+[defaults]
+default_cooking_nights = 3
+
 [brands]
 paper_towels = ["Viva"]
 butter = ["Challenge", "Tillamook", "Kerrygold"]
