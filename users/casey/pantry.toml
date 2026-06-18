@@ -1724,12 +1724,6 @@ name = "Poppy seed dressing"
 [[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
-category = "condiment"
-name = "Lush wine vinaigrette"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
 category = "fermented"
 name = "Sauerkraut"
 
@@ -1744,4 +1738,10 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "broth"
 name = "Mushroom broth"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Blush wine vinaigrette"
 
