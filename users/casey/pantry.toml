@@ -304,3 +304,238 @@ last_verified_at = "2026-06-15"
 name = "mustard seeds"
 category = "pantry"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "4 packs"
+location = "freezer"
+name = "Frozen seasoned chicken leg quarters"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "1"
+location = "freezer"
+name = "Frozen chicken leg quarter (loose)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "1 bag"
+location = "freezer"
+notes = "Freezer burned, best for stocks or stews"
+name = "Frozen leg quarters (10 lb bag, freezer burned)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Pineapple kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Cream cheese kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Lemon cream cheese kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Apricot kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Pumpkin cream cheese kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Strawberry cream cheese kolache"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Mint chocolate chip ice cream"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Strawberry ice cream"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Frozen strawberry banana blend"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Frozen antioxidant blend (strawberries, cherries, blueberries, pomegranate, raspberries)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Tropical fruit blend (mango, strawberries, pineapple)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Mixed fruit blend (pineapple, strawberries, mango, peaches)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Triple berry blend (blueberries, blackberries, raspberries)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Atlantic sea scallop pieces"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Swai fillets"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Salmon burgers"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Swordfish steaks"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Farmed Atlantic salmon fillets"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Atlantic sockeye salmon fillets"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "2"
+location = "freezer"
+name = "Boneless skinless cod fillets"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Large raw shrimp"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Diced avocado (frozen)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "2 packs"
+location = "freezer"
+name = "Frozen spinach"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "3 bags"
+location = "freezer"
+name = "Frozen peas"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "3 packages"
+location = "freezer"
+name = "African peanut stew (frozen leftovers)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "3 packages"
+location = "freezer"
+notes = "Freezer burned"
+name = "Ground turkey (freezer burned)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "4 lbs"
+location = "freezer"
+name = "Ground pork"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+notes = "Unsure if Spanish or Mexican style"
+name = "Mulay chorizo"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Kielbasa"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Andouille sausage"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Chicken tenderloin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Chicken livers"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+quantity = "1"
+location = "freezer"
+name = "Whole frozen chicken"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+name = "Saint Louis style ribs"
+
