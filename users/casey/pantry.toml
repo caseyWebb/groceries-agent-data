@@ -516,3 +516,435 @@ location = "freezer"
 quantity = "5 bags"
 name = "Frozen smoothie fruit mix"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Cayenne pepper"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Garlic powder"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground mustard"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground nutmeg"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Togarashi"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+notes = "Multiple containers"
+name = "Ground cardamom"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Thyme leaves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Dill weed"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+notes = "Multiple containers"
+name = "Mexican oregano leaves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground allspice"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Chili powder"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+notes = "Multiple containers"
+name = "Smoked paprika"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Penzeys chicken and pork rub"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "All Day seasoning (Penzeys)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Celery seed"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+notes = "Multiple containers"
+name = "Ground cumin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Marjoram"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground cloves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Onion powder"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Fennel seed"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Coriander seed"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground sage"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Cinnamon"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Paprika"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground coriander"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Toasted sesame seeds"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Caraway seeds"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground ginger"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Oregano leaves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Freeze-dried chives"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground turmeric"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ancho chili powder"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Ground thyme"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Dried basil"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Za'atar"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Peach tea barbecue rub"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Smoky fennel seasoning"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Ultimate umami seasoning"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Rocky Mountain seasoning (Penzeys)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Peppercorn medley"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Smoked seasoned salt"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried goods"
+name = "Dried oyster mushrooms"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried goods"
+name = "Dried porcini mushrooms"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Barbecue pork rub"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Chiles de arbol"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "MSG"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+notes = "Multiple containers"
+name = "Whole cardamom pods"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Crazy mixed up salt (Penzeys)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Sichuan peppercorns"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Tony Chachere's creole seasoning"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Whole nutmeg"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried goods"
+name = "Kombu flakes"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Vanilla extract"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Sesame seeds"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Colman's English mustard"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Whole cloves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Cinnamon sticks"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Cream of tartar"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Celery salt"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Garlic and herb salt-free seasoning"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Asafoetida"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Gochujang powder"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Garlic salt"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice"
+name = "Star anise"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+quantity = "2"
+name = "Piloncillo"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Ranch seasoning"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Garam masala"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Chicken bouillon"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Unflavored gelatin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Fruit pectin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "kitchen supply"
+name = "Butcher's twine"
+
