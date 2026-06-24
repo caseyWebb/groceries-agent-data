@@ -28,6 +28,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 10,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "american-chop-suey",
     "source": "https://www.seriouseats.com/johnny-marzetti-beefaroni-hamburger-helper-goulash-italian-american-recipe",
     "style": "one-pot",
@@ -73,6 +78,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a crisp marinated vegetable side"
+    ],
     "slug": "american-goulash",
     "source": "https://www.budgetbytes.com/goulash/",
     "style": "one-pot",
@@ -121,6 +131,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a bright tangy pickled vegetable side",
+      "a crisp fresh cucumber or green salad",
+      "a sharp citrusy dipping condiment"
+    ],
     "slug": "arroz-caldo",
     "source": "https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe",
     "style": "soup",
@@ -173,6 +188,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "crusty bread for the gravy",
+      "a bright simply dressed vegetable side"
+    ],
     "slug": "beef-stew",
     "source": "https://www.seriouseats.com/all-american-beef-stew-recipe",
     "style": "stew",
@@ -223,6 +243,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a cooling cucumber or pickled vegetable side",
+      "a quick miso or seaweed soup",
+      "a crisp sesame slaw"
+    ],
     "slug": "bibimbap-bowl",
     "source": "https://www.budgetbytes.com/bibimbap",
     "style": "bowl",
@@ -274,6 +299,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 10,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "bolognese-sauce",
     "source": "https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe",
     "style": "braise",
@@ -370,6 +400,12 @@
     ],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm flatbread to soak up the sauce",
+      "a cooling cucumber yogurt salad",
+      "a tangy quick-pickled vegetable side",
+      "a crisp lightly spiced green salad"
+    ],
     "slug": "butter-chicken",
     "source": "https://www.seriouseats.com/stovetop-butter-chicken",
     "style": "braise",
@@ -403,6 +439,11 @@
     "protein": "fish",
     "requires_equipment": [],
     "servings": 2,
+    "side_search_terms": [
+      "a clear light miso or vegetable soup",
+      "a cooling cucumber or pickled vegetable side",
+      "a simple blanched green vegetable with sesame"
+    ],
     "slug": "catfish-kabayaki",
     "source": "https://www.justonecookbook.com/catfish-kabayaki",
     "tags": [
@@ -448,6 +489,12 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "fragrant steamed basmati rice",
+      "warm flatbread or naan to scoop",
+      "a cooling cucumber and yogurt raita",
+      "a crisp tangy onion or cabbage salad"
+    ],
     "slug": "channa-masala",
     "source": "https://www.seriouseats.com/channa-masala-recipe",
     "style": "one-pot",
@@ -493,6 +540,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "steamed white rice",
+      "a crisp tangy pickled vegetable side",
+      "a simple bright green vegetable to lighten the plate"
+    ],
     "slug": "chicken-adobo",
     "source": "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-chicken-adobo-3649636",
     "style": "braise",
@@ -536,6 +588,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm cornbread or soft tortillas",
+      "a cooling crisp avocado and lime salad",
+      "a fresh charred corn or cabbage slaw"
+    ],
     "slug": "chicken-and-black-bean-stew",
     "source": "https://www.seriouseats.com/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe",
     "style": "stew",
@@ -584,6 +641,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or sauteed green vegetable",
+      "a tangy slaw or marinated vegetable side"
+    ],
     "slug": "chicken-and-dumplings",
     "source": null,
     "style": "soup",
@@ -628,6 +690,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp acidic green salad to brighten the plate",
+      "a simple buttered or roasted green vegetable",
+      "a fresh tomato and cucumber salad"
+    ],
     "slug": "chicken-and-rice",
     "source": "https://www.budgetbytes.com/one-pot-chicken-and-rice/",
     "style": "one-pot",
@@ -676,6 +743,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm rice or cilantro-lime rice to soak up the sauce",
+      "a cooling avocado or crema-dressed salad",
+      "a fresh corn and tomato salad"
+    ],
     "slug": "chicken-chile-verde",
     "source": "https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe",
     "style": "pressure-cooker",
@@ -718,6 +790,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple roasted vegetable side"
+    ],
     "slug": "chicken-piccata-meatballs-and-orzo-skillet",
     "source": "https://www.budgetbytes.com/chicken-piccata-meatballs-and-orzo-skillet",
     "style": "one-pot",
@@ -766,6 +843,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a bright lemony shredded carrot or herb salad",
+      "fluffy couscous or warm flatbread",
+      "a crisp cooling cucumber and tomato salad"
+    ],
     "slug": "chicken-tagine",
     "source": "https://www.seriouseats.com/chicken-and-dried-fig-tagine-with-pistachios-and-chickpeas",
     "style": "braise",
@@ -856,6 +938,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "warm crusty bread or a crisp baguette",
+      "a light brothy vegetable soup",
+      "a simple starchy side like roasted potatoes"
+    ],
     "slug": "cobb-salad",
     "source": null,
     "style": "salad",
@@ -904,6 +991,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a bright marinated tomato or vegetable side"
+    ],
     "slug": "corn-risotto",
     "source": "https://www.seriouseats.com/pressure-cooker-corn-risotto",
     "style": "one-pot",
@@ -999,6 +1091,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp green salad with tangy vinaigrette to cut the cream",
+      "a cooling crunchy slaw",
+      "a simple sauteed green vegetable"
+    ],
     "slug": "creamy-cajun-chicken-pasta",
     "source": "https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/",
     "style": "one-pot",
@@ -1045,6 +1142,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "creamy-pesto-chicken-pasta",
     "source": "https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/",
     "style": "one-pot",
@@ -1092,6 +1194,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "crispy-baked-pasta",
     "source": "https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe",
     "style": "baked",
@@ -1228,6 +1335,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crunchy salty potato chip or crisp",
+      "a tangy pickle or vinegary cucumber side",
+      "a light brothy tomato soup"
+    ],
     "slug": "egg-salad-sandwich",
     "source": "https://www.seriouseats.com/the-best-egg-salad-recipe",
     "style": "salad",
@@ -1273,6 +1385,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "fluffy steamed white rice",
+      "a cooling crisp green salad",
+      "warm cornbread"
+    ],
     "slug": "filthier-cabbage",
     "source": null,
     "style": "braise",
@@ -1358,6 +1475,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 3,
+    "side_search_terms": [
+      "a crisp cucumber or smashed-cucumber salad",
+      "a light gingery vegetable stir-fry",
+      "a savory protein like glazed tofu or stir-fried chicken"
+    ],
     "slug": "fried-rice",
     "source": "https://www.seriouseats.com/easy-vegetable-fried-rice-recipe",
     "style": "stir-fry",
@@ -1450,6 +1572,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a bright crisp green salad with vinaigrette",
+      "garlicky sauteed leafy greens",
+      "a tangy tomato and onion salad"
+    ],
     "slug": "galinhada-mineira",
     "source": "https://www.seriouseats.com/galinhada-mineira-brazilian-chicken-and-rice-from-minas-gerais-recipe-7229603",
     "style": "one-pot",
@@ -1498,6 +1625,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "warm cornbread or crusty bread",
+      "a cooling crisp sesame slaw",
+      "a fresh bright green salad with sharp vinaigrette"
+    ],
     "slug": "gochujang-white-chicken-chili",
     "source": null,
     "style": "soup",
@@ -1550,6 +1682,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "steamed jasmine rice or rice noodles",
+      "a crunchy herb and cabbage slaw",
+      "quick tangy pickled vegetables"
+    ],
     "slug": "grilled-lemongrass-chicken-thighs",
     "source": "https://www.bonappetit.com/recipe/grilled-lemongrass-chicken-thighs",
     "style": "grilled",
@@ -1590,6 +1727,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a starchy side like roasted potatoes or rice",
+      "a simple buttered or roasted green vegetable",
+      "a crisp bright green salad with vinaigrette"
+    ],
     "slug": "honey-mustard-salmon",
     "source": null,
     "style": "baked",
@@ -1639,6 +1781,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "warm crusty bread for dipping",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "italian-beans-and-greens-soup",
     "source": null,
     "style": "soup",
@@ -1703,6 +1850,11 @@
     "protein": "beef",
     "requires_equipment": [],
     "servings": 4,
+    "side_search_terms": [
+      "steamed rice",
+      "a cooling cucumber or pickled vegetable side",
+      "a crisp sesame slaw"
+    ],
     "slug": "la-galbi-korean-bbq-short-ribs",
     "source": "https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs",
     "tags": [
@@ -1741,6 +1893,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "lasagna-bolognese",
     "source": "https://www.seriouseats.com/lasagna-bolognese-al-forno-recipe",
     "style": "baked",
@@ -1798,6 +1955,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "meat-lasagna",
     "source": "https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta",
     "style": "baked",
@@ -1847,6 +2009,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp acidic green salad to cut the richness"
+    ],
     "slug": "meatloaf",
     "source": "https://www.seriouseats.com/the-food-lab-all-american-meatloaf-excerpt-recipe",
     "style": "baked",
@@ -1898,6 +2065,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "crusty bread for dunking in broth",
+      "a sharp green salad with vinaigrette",
+      "a simple antipasto of marinated vegetables"
+    ],
     "slug": "minestrone-soup",
     "source": "https://www.seriouseats.com/the-best-minestrone-soup-recipe",
     "style": "soup",
@@ -1930,6 +2102,11 @@
     "protein": "chicken",
     "requires_equipment": [],
     "servings": 5,
+    "side_search_terms": [
+      "a crisp cooling cucumber or sesame slaw",
+      "a simple quick-pickled vegetable side",
+      "lightly dressed blanched greens"
+    ],
     "slug": "miso-chicken",
     "source": "https://www.justonecookbook.com/miso-chicken",
     "tags": [
@@ -2015,6 +2192,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes for the gravy",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp acidic green salad to cut the richness"
+    ],
     "slug": "mississippi-pot-roast",
     "source": "https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586",
     "style": "braise",
@@ -2061,6 +2243,11 @@
       "all"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "steamed rice",
+      "a light brothy or clear vegetable soup",
+      "a crisp cucumber or smashed-cucumber salad"
+    ],
     "slug": "moo-shu-pork",
     "source": "https://thewoksoflife.com/moo-shu-pork-recipe",
     "style": "stir-fry",
@@ -2104,6 +2291,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm flatbread or crusty bread for dipping",
+      "a bright lemony herb and tomato salad",
+      "a simple marinated olive and citrus plate"
+    ],
     "slug": "moroccan-egg-drop-harira",
     "source": "https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917",
     "style": "soup",
@@ -2148,6 +2340,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple buttered or roasted green vegetable"
+    ],
     "slug": "mushroom-and-sun-dried-tomato-farotto",
     "source": "https://www.seriouseats.com/mushroom-sundried-tomato-farrotto-recipe-8772336",
     "style": "one-pot",
@@ -2191,6 +2388,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-alla-norcina",
     "source": "https://www.seriouseats.com/pasta-alla-norcina-creamy-pasta-with-sausage",
     "style": "one-pot",
@@ -2233,6 +2435,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-burro-e-alici",
     "source": "https://www.seriouseats.com/pasta-burro-e-alici-pasta-with-creamy-anchovy-butter-sauce-recipe-11859455",
     "style": "one-pot",
@@ -2278,6 +2485,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "warm crusty bread for the broth",
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens"
+    ],
     "slug": "pasta-e-fagioli",
     "source": "https://www.budgetbytes.com/pasta-e-fagioli/",
     "style": "soup",
@@ -2330,6 +2542,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-e-fagioli-tuscan",
     "source": "https://www.seriouseats.com/pasta-e-fagioli-italian-bean-pasta-soup-recipe",
     "style": "soup",
@@ -2380,6 +2597,11 @@
       "summer"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "crusty bread or garlic bread",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-primavera",
     "source": "https://www.bonappetit.com/recipe/pasta-primavera",
     "tags": [
@@ -2424,6 +2646,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-with-sausage-and-peppers",
     "source": "https://www.budgetbytes.com/pasta-with-sausage-and-peppers/",
     "style": "one-pot",
@@ -2479,6 +2706,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a starchy side like rice or roasted potatoes",
+      "a bright corn and avocado salad",
+      "charred or grilled summer vegetables"
+    ],
     "slug": "peruvian-style-tofu-with-creamy-cilantro-sauce",
     "source": "https://www.bonappetit.com/recipe/peruvian-style-tofu-with-creamy-cilantro-sauce",
     "tags": [
@@ -2527,6 +2759,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm rice to soak up the sauce",
+      "a crisp bright cabbage or cucumber slaw",
+      "a fresh avocado and tomato salad"
+    ],
     "slug": "pollo-guisado",
     "source": null,
     "style": "stew",
@@ -2575,6 +2812,11 @@
     ],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm naan or flatbread to soak up the sauce",
+      "a cooling cucumber and yogurt raita",
+      "a crisp bright kachumber-style chopped salad"
+    ],
     "slug": "pressure-cooker-butter-chicken",
     "source": "https://www.seriouseats.com/pressure-cooker-butter-chicken",
     "style": "pressure-cooker",
@@ -2627,6 +2869,11 @@
       "summer"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "crusty bread to soak up the sauce",
+      "a starchy side of rice or roasted potatoes",
+      "a simple green salad with vinaigrette"
+    ],
     "slug": "ratatouille",
     "source": "https://www.budgetbytes.com/oven-roasted-ratatouille/",
     "style": "baked",
@@ -2661,6 +2908,11 @@
     "protein": "shellfish",
     "requires_equipment": [],
     "servings": 3,
+    "side_search_terms": [
+      "steamed jasmine rice",
+      "a cooling cucumber or fresh herb salad",
+      "a crisp tangy green papaya or vegetable slaw"
+    ],
     "slug": "red-curry-shrimp",
     "source": "https://rasamalaysia.com/red-curry-shrimp",
     "tags": [
@@ -2698,6 +2950,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp tangy dill pickle spear",
+      "a sharp vinegary slaw to cut the richness",
+      "a simple crisp potato or kettle chip side"
+    ],
     "slug": "reuben-sandwiches",
     "source": "https://www.seriouseats.com/reuben-sandwich-corned-beef-rye-recipe",
     "style": "griddle",
@@ -2750,6 +3007,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a starchy side like rice pilaf or roasted potatoes",
+      "a lemony grain or couscous salad",
+      "a bright herbed yogurt or cucumber side"
+    ],
     "slug": "sheet-pan-salmon-and-kale",
     "source": null,
     "style": "sheet-pan",
@@ -2798,6 +3060,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 2,
+    "side_search_terms": [
+      "warm flatbread or naan to soak up the sauce",
+      "a cooling cucumber and yogurt raita",
+      "a simple spiced vegetable side"
+    ],
     "slug": "shrimp-with-cilantro-sauce",
     "source": null,
     "style": "one-pot",
@@ -2839,6 +3106,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "crispy oven fries or potato wedges",
+      "a crisp tangy coleslaw to cut the sweetness",
+      "a simple dressed green salad"
+    ],
     "slug": "sloppy-joes",
     "source": null,
     "style": "one-pot",
@@ -2927,6 +3199,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "warm crusty bread or garlic bread",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "spinach-tortellini-soup",
     "source": null,
     "style": "soup",
@@ -2969,6 +3246,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp green salad with tangy vinaigrette",
+      "garlicky sauteed greens",
+      "a fresh crunchy vegetable slaw"
+    ],
     "slug": "stuffed-pepper-skillet",
     "source": "https://www.budgetbytes.com/stuffed-pepper-skillet",
     "style": "one-pot",
@@ -3049,6 +3331,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with bright vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a crisp lemony shaved vegetable side"
+    ],
     "slug": "sweet-potato-gnocchi",
     "source": null,
     "style": "fresh-pasta",
@@ -3094,6 +3381,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes for the gravy",
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or sauteed green vegetable"
+    ],
     "slug": "swiss-steak",
     "source": null,
     "style": "braise",
@@ -3144,6 +3436,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a tangy vinegar-dressed slaw",
+      "a simple roasted or steamed green vegetable"
+    ],
     "slug": "tater-tot-casserole",
     "source": null,
     "style": "baked",
@@ -3192,6 +3489,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp green salad with sharp vinaigrette",
+      "crusty garlic bread for dipping",
+      "garlicky sauteed greens"
+    ],
     "slug": "tomato-tortellini-soup",
     "source": null,
     "style": "soup",
@@ -3239,6 +3541,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or roasted green vegetable",
+      "a tangy quick-pickled vegetable side"
+    ],
     "slug": "tuna-casserole",
     "source": "https://www.bonappetit.com/recipe/tuna-casserole",
     "style": "baked",
@@ -3284,6 +3591,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed or roasted potatoes",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp bright green salad with vinaigrette"
+    ],
     "slug": "turkey-meatloaf",
     "source": "http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/recipes/2000s/2003/01/turkey-meatloaf.html",
     "style": "baked",
@@ -3332,6 +3644,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "crusty toasted bread for dipping",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable side"
+    ],
     "slug": "tuscan-white-bean-soup",
     "source": "https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe",
     "style": "soup",
@@ -3375,6 +3692,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "uovo-in-raviolo",
     "source": "https://www.seriouseats.com/uovo-in-raviolo-runny-egg-yolk-ravioli-ricotta-recipe",
     "style": "pasta",
@@ -3421,6 +3743,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "black beans and fluffy white rice",
+      "fried sweet plantains",
+      "a bright crisp avocado and citrus salad"
+    ],
     "slug": "vaca-frita",
     "source": null,
     "style": "braise",
@@ -3475,6 +3802,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "warm cornbread to soak up the broth",
+      "a crisp lime-dressed cabbage slaw",
+      "a fresh avocado or tomato salad"
+    ],
     "slug": "white-chicken-chili",
     "source": "https://www.seriouseats.com/white-chili-with-chicken-best",
     "style": "stew",
@@ -3510,6 +3842,11 @@
     "protein": "vegetarian",
     "requires_equipment": [],
     "servings": 2,
+    "side_search_terms": [
+      "crispy vegetable or shrimp tempura",
+      "a savory glazed or fried protein",
+      "a chilled marinated vegetable side"
+    ],
     "slug": "zaru-udon-cold-udon-with-dipping-sauce",
     "source": "https://www.justonecookbook.com/cold-udon-noodles",
     "tags": [
