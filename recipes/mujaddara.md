@@ -3,7 +3,6 @@ course:
   - main
   - side
 cuisine: mediterranean
-description: The Levantine 'poor man's meal' that punches far above its ingredients — lentils and rice cooked together with deeply caramelized onions, simply seasoned with cumin and pepper, and crowned with more crispy onions. Earthy, savory, sweet from the onions; humble, hearty, vegan comfort. Great as a main with yogurt and a sharp salad, or as a substantial side.
 dietary:
   - vegetarian
   - vegan

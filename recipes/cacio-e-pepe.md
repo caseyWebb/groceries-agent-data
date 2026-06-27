@@ -10,7 +10,6 @@ ingredients_key:
   - black pepper
 course:
   - main
-description: The irreducible Roman pasta — finely grated Pecorino Romano emulsified with starchy pasta water and toasted black pepper into a glossy, creamy sauce with zero cream. Sharp, peppery, pure technique; a fast weeknight dish that makes something deeply savory out of almost nothing.
 side_search_terms:
   - a bright acidic green salad
   - a simple sautéed bitter green

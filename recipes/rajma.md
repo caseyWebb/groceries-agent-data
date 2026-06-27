@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: indian
-description: Classic Punjabi rajma masala — kidney beans cooked soft and simmered in a deeply sauteed onion-tomato-ginger-garlic gravy, a few beans mashed in to thicken it, finished with kasuri methi and a touch of cream. Hearty, warming bean comfort over rice (rajma chawal); a protein-rich vegetarian main, vegan-adaptable with oil and no cream.
 dietary:
   - vegetarian
   - gluten-free

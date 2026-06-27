@@ -5,7 +5,6 @@ protein: chicken
 cuisine: mediterranean
 course:
   - main
-description: Marinated chicken breast strips with yogurt, warm spices, and fresh vegetables in naan or pita. Grill-friendly and quick-cooking once marinated.
 time_total: 265
 time_active: 10
 servings: 4

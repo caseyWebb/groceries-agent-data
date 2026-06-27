@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: Cucina povera at its best — short pasta cooked in a creamy chickpea broth (half the beans blended smooth), perfumed with rosemary and garlic. Hearty, nourishing, and thrifty; the kind of bean-and-pasta comfort that's a meal on its own. Vegan as written, pantry-driven, great the next day.
 dietary:
   - vegetarian
   - vegan

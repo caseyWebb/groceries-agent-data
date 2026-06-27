@@ -1,6 +1,5 @@
 ---
 title: American Goulash
-description: "A budget one-pot of ground beef and elbow macaroni simmered in tomato sauce with bell peppers, red wine, and herbs. Hearty, savory, and dairy-free, it is undemanding weeknight comfort food that stretches to feed a family."
 tags:
   - pasta
   - easy-dinners

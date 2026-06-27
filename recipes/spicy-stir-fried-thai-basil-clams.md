@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: thai
-description: High-heat wok clams with Thai bird chiles, garlic, oyster sauce, and an armful of Thai basil — the clams steam in their own liquor and a cornstarch slurry ties the sauce into something glossy and intensely savory. Fast and aggressive; as different from vongole as you can get while still being clams.
 dietary: []
 ingredients_key:
   - clams

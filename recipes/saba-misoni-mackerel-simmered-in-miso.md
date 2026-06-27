@@ -12,7 +12,6 @@ dietary:
   - dairy-free
 season: []
 pairs_with: []
-description: Japanese home-cooking at its best — mackerel fillets simmered in a miso, mirin, and ginger broth until glazed and deeply savory. The miso goes in twice to keep the flavor bright; the fish rests off the heat to absorb flavor without overcooking. Rich and warming over rice.
 perishable_ingredients:
   - mackerel
   - ginger

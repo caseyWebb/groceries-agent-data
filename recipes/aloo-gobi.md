@@ -14,7 +14,6 @@ ingredients_key:
 protein: vegan
 season: []
 pairs_with: []
-description: A classic dry North Indian sabzi of potatoes and cauliflower stir-fried with cumin, turmeric, garam masala and kasuri methi until the potatoes are soft and the cauliflower stays just-crunchy, finished with tomato and a hit of amchur. Earthy, warmly spiced, everyday comfort — a vegan, gluten-free veg-forward dish that's a side with dal-rice or a light main with roti.
 dietary:
   - vegetarian
   - vegan

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: french
-description: 'Marinières'' richer Normandy cousin: mussels steamed in white wine, shallot and herbs, then finished off the heat with creme fraiche for a silky, lightly tart cream sauce. Same fast technique, rounder and more indulgent — a fancy-feeling 15-minute seafood dinner you eat with bread to mop the sauce. Reach for this over plain marinières when you want something creamier.'
 perishable_ingredients:
   - mussels
   - shallot

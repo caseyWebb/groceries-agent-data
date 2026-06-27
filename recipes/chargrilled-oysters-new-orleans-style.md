@@ -7,7 +7,6 @@ course:
 servings: 4
 time_total: 27
 time_active: 15
-description: "New Orleans-style oysters grilled on the half shell in a compound butter of Creole seasoning, garlic, lemon, and Pecorino Romano — the shells bubble, the cheese crisps, and the oyster liquor turns into the sauce. The natural move any time the grill is hot."
 source: "https://www.garlicandzest.com/chargrilled-oysters"
 tags:
   - oysters
