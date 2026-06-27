@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: indian
-description: The classic North Indian spinach-and-cheese curry — blanched spinach blended into a vivid smooth puree, simmered with a cumin-onion-tomato base and warm spices, then folded with soft paneer cubes and a swirl of cream. Earthy, creamy, gently spiced comfort over rice or naan; a vegetarian main, and easily made vegan by swapping tofu for the paneer.
 dietary:
   - vegetarian
   - gluten-free

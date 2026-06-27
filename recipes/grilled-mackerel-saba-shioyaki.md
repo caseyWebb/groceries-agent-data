@@ -12,7 +12,6 @@ dietary:
   - dairy-free
 season: []
 pairs_with: []
-description: Salt-grilled mackerel — the simplest Japanese fish preparation. Sake cleans the fish, salt seasons it, 20 minutes of resting draws out moisture, then high-heat baking crisps the skin and turns the flesh golden. Served with grated daikon and lemon. Nothing more needed.
 perishable_ingredients:
   - mackerel
   - daikon radish

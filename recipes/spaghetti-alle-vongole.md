@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The classic Neapolitan white clam pasta — spaghetti finished in the briny liquid the clams release, with garlic, olive oil, parsley, and a hint of chili. Light, savory, deeply of-the-sea; a fast, elegant weeknight fish dish. Built around the clam water, not wine, so it subs cleanly to alcohol-free.
 dietary: []
 ingredients_key:
   - clams

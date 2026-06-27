@@ -22,7 +22,6 @@ time_total: 50
 time_active: 10
 servings: 4
 source: https://littleferrarokitchen.com/julia-childs-mussels-mariniere
-description: 'The canonical French mussel dish and the foundation all the others riff on: mussels steamed open in a buttery, briny broth of shallot, garlic, white wine and herbs. Light, fast, fragrant — a 20-minute weeknight seafood dinner you eat with crusty bread to mop the broth. Steam-in-aromatic-liquid is the base technique for every mussel recipe.'
 side_search_terms:
   - crusty bread for the broth
   - a simple green salad

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: Grated zucchini squeezed dry and cooked down into a jammy, creamy lemon-Parmesan sauce that coats every strand of long pasta. Bright, summery, and satisfying in about 35 minutes — a vegetarian weeknight main that makes the most of peak-summer squash.
 dietary:
   - vegetarian
 discovered_at: '2026-06-25'

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The oldest of the four Roman pastas and the most overlooked — guanciale, Pecorino, and black pepper bound by starchy pasta water into a creamy, porky sauce with no tomato and no egg. Carbonara without the egg, amatriciana without the tomato. Rich and savory, a fast weeknight dish that rewards good guanciale.
 ingredients_key:
   - rigatoni
   - guanciale

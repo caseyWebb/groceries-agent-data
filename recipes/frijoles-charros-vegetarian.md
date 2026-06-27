@@ -3,7 +3,6 @@ course:
   - side
   - main
 cuisine: mexican
-description: 'Frijoles charros — Northern Mexican ''cowboy beans'': brothy pinto beans simmered until soft, then folded with a saute of onion, jalapeño, güero and Anaheim chiles, tomato, oregano, and cilantro. Smoky, savory, soupy bean comfort (the meatless version, no bacon or beer) — a classic side for grilled mains and tacos, or a soup-y main with warm tortillas. Vegan, freezer-friendly, and even better the next day.'
 dietary:
   - vegetarian
   - vegan

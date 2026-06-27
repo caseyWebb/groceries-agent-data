@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: Angry penne — a fast, fiery Roman tomato sauce built on garlic, olive oil, and plenty of chili, with nothing to hide behind. Bright, spicy, and clean; vegan as written. A 25-minute weeknight dish that's a natural home for garden chiles and the hot sauces on the side.
 dietary:
   - vegetarian
   - vegan
