@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: korean
-description: Sundubu jjigae — silky, custardy soft tofu in a deeply umami kombu-and-mushroom broth, spiced with bloomed gochugaru and tangy kimchi, with zucchini and a tangle of mushrooms. Spicy, sizzling, soul-warming Korean comfort, ready in about half an hour; this version is fully vegan via a seafood-free kombu broth (traditional uses anchovy stock). Serve bubbling-hot over short-grain rice.
 dietary:
   - vegetarian
   - vegan

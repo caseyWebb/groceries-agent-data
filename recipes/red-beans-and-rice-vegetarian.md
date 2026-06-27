@@ -11,7 +11,6 @@ ingredients_key:
   - smoked paprika
 season: []
 pairs_with: []
-description: The New Orleans Monday-supper classic, made meatless — red beans slow-simmered on a base of the holy trinity (onion, bell pepper, celery) with thyme, bay, and smoked paprika standing in for the andouille, then mashed creamy and ladled over rice. Deeply savory, smoky, thrifty Louisiana comfort; vegan, freezer-friendly, and better the next day. Hot sauce strongly encouraged.
 dietary:
   - vegetarian
   - vegan

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: mediterranean
-description: Egypt's beloved national street-food dish — a glorious carb-on-carb pile of spiced lentils and rice, elbow pasta, and chickpeas, smothered in a garlicky, vinegar-spiked tomato sauce and crowned with crispy fried onions. Tangy, savory, deeply filling vegan comfort; the ultimate thrifty pantry meal built for hot sauce on the side.
 dietary:
   - vegetarian
   - vegan

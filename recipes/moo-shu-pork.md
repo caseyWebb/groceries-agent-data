@@ -1,6 +1,5 @@
 ---
 title: Moo Shu Pork
-description: "A Chinese-American stir-fry of julienned pork, scrambled egg, shredded cabbage, carrots, and earthy shiitake and wood ear mushrooms, glazed savory-sweet with hoisin. Warm and savory, wrapped in thin pancakes for a hands-on family dinner."
 source: 'https://thewoksoflife.com/moo-shu-pork-recipe'
 discovered_at: '2026-06-10'
 discovery_source: rss

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The real Roman carbonara — guanciale, egg yolks, and Pecorino emulsified into a silky, glossy sauce with no cream anywhere. Rich, savory, pepper-flecked; a 20-minute weeknight dish that feels indulgent. The no-cream-in-alfredo dish; technique is everything and the margin between silky and scrambled is about fifteen seconds.
 dietary: []
 ingredients_key:
   - guanciale

@@ -13,7 +13,6 @@ time_total: 25
 time_active: 5
 servings: 3
 source: https://www.mccormick.com/blogs/gourmet-recipes/mussels-fra-diavolo
-description: Spicy Italian mussels simmered in a garlicky crushed-tomato sauce with a real chili kick, served over linguine with bread to mop up the sauce. Fast and bold — a 25-minute weeknight seafood dinner for when you want red sauce and heat. Plays well with extra hot sauce on the side.
 side_search_terms:
   - crusty bread for the sauce
   - a bright acidic green salad

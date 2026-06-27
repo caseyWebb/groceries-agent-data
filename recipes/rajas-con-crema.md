@@ -3,7 +3,6 @@ course:
   - main
   - side
 cuisine: mexican
-description: Rajas con crema — charred, peeled poblano strips sauteed with sweet onion and simmered in silky Mexican crema until rich and saucy. Smoky, mild-spicy, and comforting; a classic taco and quesadilla filling, a side for grilled mains, or a light vegetarian main with warm tortillas. A perfect home for roasted garden poblanos.
 dietary:
   - vegetarian
   - gluten-free

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The actual fettuccine Alfredo — the original Roman fettuccine al burro e parmigiano, which is butter and Parmigiano emulsified with starchy pasta water and nothing else. No cream, ever. Rich, silky, and elegant from three ingredients; the dish that proves what alfredo is supposed to be.
 dietary:
   - vegetarian
 ingredients_key:

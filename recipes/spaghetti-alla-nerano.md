@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The Amalfi Coast sleeper — golden fried (or seared) zucchini melted with aged provolone into a creamy, basil-scented sauce that coats the spaghetti risotto-style. Mild, rich, and comforting; a summer vegetarian main that turns a glut of zucchini into something special.
 dietary:
   - vegetarian
 ingredients_key:

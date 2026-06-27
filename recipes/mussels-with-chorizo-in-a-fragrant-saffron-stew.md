@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: spanish
-description: 'A hearty Spanish-style mussel stew: smoky cured chorizo, saffron, fennel and tomato with red potatoes and carrot, mussels simmered in at the end. Richer and more filling than the steamed bowls — the potatoes stretch a pound and a half of mussels into a real one-pot dinner. Warm, smoky, a little spicy; bread on the side. The half-shucked finish makes it easy to eat.'
 perishable_ingredients:
   - mussels
   - shallot
