@@ -1,6 +1,5 @@
 ---
 title: Easy Ratatouille
-description: A one-pot Provençal summer vegetable stew — eggplant, zucchini, bell pepper, cherry tomatoes, and fresh basil cooked down into something jammy and deeply savory. Works warm or at room temperature; gets better as it sits.
 protein: null
 cuisine: french
 course:

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: american
-description: Kenji’s New England clam chowder — salt pork, onion, and celery form the base; fresh clams are steamed out, chopped, and held aside; the potato-thickened milk broth is blended smooth and emulsified; then everything reunites with heavy cream at the end. Cleaner and richer than roux-based versions, without the paste. The blender is the trick.
 ingredients_key:
   - clams
   - salt pork

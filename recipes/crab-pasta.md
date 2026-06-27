@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: Light, bright pasta with fresh crab meat, cherry tomatoes, garlic, and dried chili. Quick 25-minute weeknight dinner with summery flavors.
 dietary: []
 discovered_at: '2026-06-26'
 discovery_source: Rasa Malaysia

@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: Hearty white beans simmered in a deeply reduced tomato-paste sauce and blanketed in melted mozzarella — all the satisfaction of pizza but built around a can of beans. Weeknight fast, genuinely comforting.
 dietary:
   - vegetarian
 ingredients_key:

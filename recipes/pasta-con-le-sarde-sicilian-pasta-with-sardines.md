@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The great Sicilian pasta — fresh sardines and anchovies with sautéed fennel and onion, raisins plumped in saffron wine, toasted pine nuts, and fennel-seed seasoned breadcrumbs in place of cheese. Sweet, briny, savory, and aromatic; a textbook example of Arab culinary influence on Sicily and one of the most distinctive pastas in the Italian canon.
 ingredients_key:
   - fresh sardines
   - anchovies

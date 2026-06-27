@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: japanese
-description: Japanese-style yakisoba noodles stuffed in hot dog buns. Fun, carb-forward, quick, and great for summer lunches or casual dinners. Netflix Midnight Diner inspiration.
 dietary: []
 discovered_at: '2026-06-26'
 discovery_source: Just One Cookbook

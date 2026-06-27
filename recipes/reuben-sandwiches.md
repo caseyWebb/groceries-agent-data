@@ -1,6 +1,5 @@
 ---
 title: Reuben Sandwiches
-description: "A griddled deli Reuben: warm corned beef, tangy sauerkraut, and melted Swiss on buttery toasted rye, slathered with homemade Russian dressing. Rich, salty, and crisp-crusted, it's a hearty hot sandwich for a satisfying lunch."
 tags:
   - lunch
   - sandwiches

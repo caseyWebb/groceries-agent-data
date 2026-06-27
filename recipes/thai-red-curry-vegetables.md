@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: thai
-description: A fast, rich Thai red coconut curry loaded with bell peppers, carrots, and kale, balanced with tamari, a touch of sugar, and lime. Warming, creamy, and as spicy as you like; vegan and gluten-free, great over jasmine rice, and easily bulked up with baked tofu for protein. Confirm the curry paste is vegetarian — many brands hide shrimp paste or fish sauce.
 dietary:
   - vegetarian
   - vegan

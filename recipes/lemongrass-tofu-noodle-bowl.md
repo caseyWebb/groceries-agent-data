@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: vietnamese
-description: A fresh Vietnamese-style bun bowl — lemongrass-, ginger-, and lime-marinated tofu seared golden, piled over springy vermicelli with crunchy raw lettuce, cabbage, carrot, and cucumber, and finished with a bright soy-lime dressing and cilantro. Light, herby, and refreshing; served room-temp, it's a perfect hot-weather main. Vegan and gluten-free, with a no-fry baked-tofu option.
 dietary:
   - vegetarian
   - vegan

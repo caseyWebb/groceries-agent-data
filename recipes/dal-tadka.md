@@ -16,7 +16,6 @@ pairs_with: []
 dietary:
   - vegetarian
   - gluten-free
-description: Restaurant-style North Indian dal — toor lentils pressure-cooked creamy, then hit with a sizzling ghee tadka of cumin, garlic, and dried red chili, with an optional charcoal-smoke (dhungar) step for that dhaba depth. Warming, garlicky, gently spicy comfort over rice; a weeknight-easy vegetarian main, and trivially vegan with oil instead of ghee and the cream skipped.
 side_search_terms:
   - steamed basmati or jeera rice
   - warm naan or roti

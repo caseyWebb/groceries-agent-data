@@ -3,7 +3,6 @@ course:
   - main
   - side
 cuisine: american
-description: The classic Southern summer pie — thick slices of peak-ripe tomatoes salted and drained, layered in a flaky crust with a rich, savory filling of Swiss, sharp cheddar, mayo, sweet onion, and basil, then baked until golden and bubbly. Jammy, cheesy, and the single best way to use a glut of garden tomatoes; a light vegetarian main with a salad, or a showpiece side.
 dietary:
   - vegetarian
 ingredients_key:

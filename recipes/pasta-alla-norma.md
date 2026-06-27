@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: The great Sicilian eggplant pasta — caramelized eggplant folded into a milled tomato-basil sauce over rigatoni, showered with salty ricotta salata. Meaty, rich, and satisfying without any meat; a summer/early-fall vegetarian main hearty enough to be the whole meal. Best with roasted eggplant if you'd rather skip the fry.
 dietary:
   - vegetarian
 ingredients_key:

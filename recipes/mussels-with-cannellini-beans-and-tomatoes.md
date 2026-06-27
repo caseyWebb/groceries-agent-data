@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: italian
-description: A rustic, brothy one-pan stew of mussels and creamy cannellini beans in a garlicky tomato broth. The beans soak up the briny tomato liquid and stretch a small amount of mussels into a filling, low-effort meal — humble Feast-of-the-Seven-Fishes territory. Crusty bread is mandatory for the broth. Ready in 20 minutes.
 perishable_ingredients:
   - mussels
   - parsley

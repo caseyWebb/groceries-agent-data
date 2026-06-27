@@ -2,7 +2,6 @@
 course:
   - main
 cuisine: southwestern
-description: A smoky, hearty two-bean (black and pinto) vegetarian chili built on a base of onion, pepper, carrot, and celery with chili powder, cumin, and smoked paprika — part of it blended to give that thick, long-simmered body in only 30 minutes. Cozy cold-weather comfort and game-day crowd-pleaser; vegan and gluten-free as written, even better as leftovers, and it freezes well.
 dietary:
   - vegetarian
   - vegan
