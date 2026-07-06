@@ -6,13 +6,14 @@ user-invocable: false
 
 ## The grocery list and the cart
 
-Capture buy-intent onto the **grocery list** continuously, as it comes up; **flush it once**, at order time. The flush has **two forms**, picked by my fulfillment mode (`preferences.stores.primary`) — **don't assume Kroger**:
+Capture buy-intent onto the **grocery list** continuously, as it comes up; **flush it once**, at order time. The flush has **several forms**, picked by my fulfillment mode (`preferences.stores`) — **don't assume Kroger**:
 
 - **Kroger online** (`primary: kroger`) — flush to the Kroger cart with `place_order`.
 - **Kroger in-store** — walk with API-driven aisle ordering.
-- **In-store walk** (`primary` is a store slug from `stores/`) — turn the list into a shopping list grouped for that store and walk it. Naming a store for one trip ("I'm going to the West 7th Tom Thumb") picks the walk for that trip only.
+- **In-store walk** (`primary` is a store slug, *not* marked satellite-fulfilled) — turn the list into a shopping list grouped for that store and walk it. Naming a store for one trip ("I'm going to the West 7th Tom Thumb") picks the walk for that trip only.
+- **Satellite cart-fill** (`primary` is a store slug marked `fulfillment: "satellite"`) — that store has no Worker-side API, so instead of a walk or `place_order`, tell me to open my **local cart-fill helper** and refresh. The helper fills that store's cart and **stops at its review page** — I finish checkout myself in the store's own UI. A store-slug primary *without* the `fulfillment: "satellite"` marker stays the in-store walk above — don't reroute it.
 
-All three flush paths are handled by the `shop-groceries` flow.
+All of these flush paths are handled by the `shop-groceries` flow.
 
 **Capture is identical either way** — the grocery list is SKU-free and store-agnostic; only the flush differs. Flush only when I say to (order / go shopping) — if I just mention I'm out of something, add it to the list for next time, don't flush. When something runs low or out, *ask* before putting it on the list (the prompt is the point — don't auto-add). Household / non-food items belong on the list too.
 

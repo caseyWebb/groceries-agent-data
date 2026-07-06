@@ -13,12 +13,15 @@ Read `read_grocery_list` and `read_user_profile()` in parallel (preferences fiel
 |---|---|
 | `primary = "kroger"` and no store named for this trip | **Kroger online** — `place_order` flush |
 | `primary = "kroger"` and I named a specific Kroger store, or I say "in-store" / "walking the Kroger" | **Kroger in-store** — API aisle ordering |
-| `primary` is a store slug, or I named a non-Kroger store | **In-store walk** — layout/notes aisle ordering |
+| `primary` is a store slug marked `fulfillment: "satellite"` (from `read_user_profile()`) | **Satellite cart-fill** — point me at my local cart-fill helper; no `place_order`, no walk list |
+| `primary` is a store slug (not satellite-marked), or I named a non-Kroger store | **In-store walk** — layout/notes aisle ordering |
 | Walking a store we've never mapped and I want to record it | **Map + walk** — concurrent map-and-shop |
 
 > For details, read `references/kroger-online.md`.
 
 > For details, read `references/kroger-instore.md`.
+
+> For details, read `references/satellite-cartfill.md`.
 
 > For details, read `references/instore-walk.md`.
 
