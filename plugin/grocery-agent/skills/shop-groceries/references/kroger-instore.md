@@ -15,7 +15,7 @@ Check whether a Kroger store is registered for this trip:
 
 #### 2. Load items and their placements
 
-Open with `read_to_buy({ with_aisles: true })`: each line may carry a `placement` — a **captured aisle** (`aisle_number`/`aisle_description`, learned from past orders' resolved products and stored on the SKU cache at this store) and/or a graph-derived `department`. Captured placements are **real store data — prefer them** over anything inferred; they cost no product lookups and cover more of the list with every order placed. (The top-level `location` names the store the placements are for — if it isn't this trip's store, treat the placements as absent.)
+Open with `read_to_buy({ enrich: true })`: each line may carry a `placement` — a **captured aisle** (`aisle_number`/`aisle_description`, learned from past orders' resolved products and stored on the SKU cache at this store) and/or a graph-derived `department` — and its `substitutes[]`, re-resolved for *this* store if it isn't the one the opening read used. Captured placements are **real store data — prefer them** over anything inferred; they cost no product lookups and cover more of the list with every order placed. (The top-level `location` names the store the placements are for — if it isn't this trip's store, treat the placements as absent.)
 
 For the lines **without** a captured placement, fall back to `kroger_prices` in parallel (plan-derived lines walk exactly like explicit rows, each carrying its `for_recipes` attribution), passing `location_id` (the store's registered Kroger `locationId`; omit to fall back to the profile preferred location). Each returned product carries `aisleLocation: { number, description, side? } | null` and a top-level `inStore: boolean`.
 
