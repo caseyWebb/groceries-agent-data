@@ -11,7 +11,11 @@
 		// (AUD) tag the Worker validates the Cf-Access-Jwt-Assertion against. Unset → /admin 404.
 		"ACCESS_TEAM_DOMAIN": "dirtbags.cloudflareaccess.com",
 		"ACCESS_AUD": "8e69b168b8fc5ad54918cf88d7a64d081eb99dcabab863aceef1400c8c89609d",
-		"CF_ACCOUNT_ID": "552766ebb0cb54261720167eb830466c"
+		"CF_ACCOUNT_ID": "552766ebb0cb54261720167eb830466c",
+		// The operator's household. The lens reconcile attaches legacy corpus rows without
+		// discovery attribution to this tenant (visibility grants), and the dup-scan
+		// addresses its reports here. Unset, both record a skipped run and wait.
+		"OWNER_TENANT_ID": "casey"
 	},
 	"kv_namespaces": [
 		{ "binding": "KROGER_KV", "id": "aee060bb679141d995c8bc0d5643b9d3" },
