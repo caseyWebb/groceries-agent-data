@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The yamp curated starter set (deployment-profiles-and-visibility-lens, D13).
+     Consumed under the SaaS profile only: each SaaS deployment's discovery sweep polls
+     this feed on its normal cadence and lands the entries as curated-tier visibility
+     grants (dedup-to-grant onto existing corpus rows by source URL; fresh imports
+     otherwise). Curate by editing the item list — removals stop future grants but
+     never delete anything. -->
+<rss version="2.0">
+  <channel>
+    <title>yamp curated starter set</title>
+    <link>https://yamp.cooking/cookbook</link>
+    <description>A product-maintained starter set of recipes for new households.</description>
+    <item>
+      <title>Pesto alla Genovese</title>
+      <link>https://www.recipesfromitaly.com/original-pesto-genovese-recipe</link>
+    </item>
+    <item>
+      <title>Egg Salad Sandwich</title>
+      <link>https://www.seriouseats.com/the-best-egg-salad-recipe</link>
+    </item>
+    <item>
+      <title>Honey Garlic Salmon</title>
+      <link>https://www.recipetineats.com/honey-garlic-salmon-5-ingredients-15-minutes</link>
+    </item>
+    <item>
+      <title>Thai Grilled Shrimp</title>
+      <link>https://rasamalaysia.com/thai-grilled-shrimp</link>
+    </item>
+    <item>
+      <title>Fried Rice</title>
+      <link>https://www.seriouseats.com/easy-vegetable-fried-rice-recipe</link>
+    </item>
+    <item>
+      <title>Al Pastor Tacos with Smashed Avocado</title>
+      <link>https://www.halfbakedharvest.com/30-minute-al-pastor-tacos</link>
+    </item>
+    <item>
+      <title>Aloo Gobi (Dry Potato &amp; Cauliflower Sabzi)</title>
+      <link>https://www.indianhealthyrecipes.com/aloo-gobi-recipe</link>
+    </item>
+    <item>
+      <title>Miso Chicken</title>
+      <link>https://www.justonecookbook.com/miso-chicken</link>
+    </item>
+    <item>
+      <title>LA Galbi (Korean BBQ Short Ribs)</title>
+      <link>https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs</link>
+    </item>
+    <item>
+      <title>Pork Tenderloin With Street Corn</title>
+      <link>https://www.bonappetit.com/recipe/pork-tenderloin-street-corn</link>
+    </item>
+    <item>
+      <title>Cajun Shrimp with Bell Peppers &amp; Corn</title>
+      <link>https://www.delish.com/cooking/recipe-ideas/recipes/a51607/cajun-shrimp-recipe/</link>
+    </item>
+    <item>
+      <title>Shakshuka</title>
+      <link>https://www.themediterraneandish.com/shakshuka-recipe</link>
+    </item>
+    <item>
+      <title>Ratatouille</title>
+      <link>https://www.bonappetit.com/recipe/one-pot-ratatouille</link>
+    </item>
+    <item>
+      <title>Chorizo and Potato Frittata</title>
+      <link>https://www.jamieoliver.com/recipes/eggs/potato-and-chorizo-omelette-with-a-kinda-parsley-salad/</link>
+    </item>
+    <item>
+      <title>Vietnamese Lemongrass Tofu Noodle Bowl (Bun Chay)</title>
+      <link>https://choosingchia.com/vietnamese-noodle-bowls</link>
+    </item>
+    <item>
+      <title>Jerk Chicken Skewers with Peaches</title>
+      <link>https://www.feastingathome.com/grilled-jerk-chicken-and-peach-skewers</link>
+    </item>
+    <item>
+      <title>Arroz Caldo</title>
+      <link>https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe</link>
+    </item>
+    <item>
+      <title>Moroccan Egg Drop Harira</title>
+      <link>https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917</link>
+    </item>
+    <item>
+      <title>Peruvian-Style Tofu</title>
+      <link>https://www.bonappetit.com/recipe/peruvian-style-tofu-with-creamy-cilantro-sauce</link>
+    </item>
+    <item>
+      <title>Galinhada Mineira</title>
+      <link>https://www.seriouseats.com/galinhada-mineira-brazilian-chicken-and-rice-from-minas-gerais-recipe-7229603</link>
+    </item>
+    <item>
+      <title>Spaghetti al Tonno</title>
+      <link>https://www.recipesfromitaly.com/pasta-with-tuna-recipe</link>
+    </item>
+    <item>
+      <title>Turkey Meatloaf</title>
+      <link>http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/recipes/2000s/2003/01/turkey-meatloaf.html</link>
+    </item>
+    <item>
+      <title>Asian Noodle Salad</title>
+      <link>https://www.feastingathome.com/sesame-cabbage-noodle-salad</link>
+    </item>
+    <item>
+      <title>Crispy Tofu With Peanut Sauce</title>
+      <link>https://www.bonappetit.com/recipe/tofu-peanut-sauce</link>
+    </item>
+  </channel>
+</rss>
